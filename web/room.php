@@ -67,7 +67,7 @@
 <body>
 
 <div class="videos">
-    <video id="localVideo" autoplay style="width:200px;height:100px;"></video>
+    <video id="localVideo" autoplay style="width:200px;height:100px;" muted="true"></video>
     <video id="remoteVideo" autoplay style="width:200px;height:100px;"></video>
 <!--    class="hidden"-->
 </div>
