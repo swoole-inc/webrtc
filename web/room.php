@@ -4,18 +4,18 @@
 <head>
 
     <meta charset="utf-8">
-    <meta name="description" content="php web-rtc例子,一对一聊天-基于swoole">
+    <meta name="description" content="webrt示例,一对一视频聊天-基于swoole实现">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
-    <meta itemprop="description" content="Video chat using the reference WebRTC application">
+    <meta itemprop="description" content="swoole webrtc 视频聊天 demo">
     <meta itemprop="name" content="AppRTC">
     <meta name="mobile-web-app-capable" content="yes">
     <meta id="theme-color" name="theme-color" content="#1e1e1e">
-    <title>php web-rtc在线测试,一对一聊天-基于swoole</title>
+    <title>webrt示例,一对一视频聊天-基于swoole实现</title>
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <style>
         body {
-            background-color: #333;
-            color: #fff;
+            background-color: #fff;
+            color: #333;
             font-family: 'Roboto', 'Open Sans', 'Lucida Grande', sans-serif;
             height: 100%;
             margin: 0;
