@@ -1,0 +1,6 @@
+{
+  "require": {
+    "ext-json": "*",
+    "ext-swoole": "*"
+  }
+}
